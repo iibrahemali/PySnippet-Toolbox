@@ -31,4 +31,4 @@ This Python script utilizes the PyPDF2 library to merge multiple PDF files prese
 This Python script, using the Pillow library, processes images from the "imgs" folder by applying a series of edits such as sharpening, converting to black and white, rotating, and adjusting contrast. The edited images are then saved in the "editedImgs" folder with appended filenames. Users can explore additional image enhancements using the Pillow library documentation.
 
 ##
-**Pythonistas!** Code is poetry, automation is freedom!  Let's keep liberating our time and focus for epic coding adventures. 
+Code is poetry, automation is freedom!  Keep liberating your time with your lines! 
